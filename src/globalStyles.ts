@@ -10,11 +10,14 @@ ${reset}
   }
   @font-face {
     font-family: "Spartan";
-    src: url("/fonts/LeagueSpartan-Regular.ttf");
+    src: url("/fonts/Spartan-Medium.ttf");
   }
   @font-face {
     font-family: "Spartan Bold";
-    src: url("/fonts/LeagueSpartan-Bold.ttf");
+    src: url("/fonts/Spartan-Bold.ttf");
+  }
+  * {
+    box-sizing: border-box;
   }
 
   body {
